@@ -48,6 +48,6 @@
 <!-- ![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-000?&logo=Nuxt.js) -->
 
 ### Contact me: ☟
-![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=omarovfrontend.visitor-badge&left_text=%F0%9F%91%80%20Visitors)
-[![Telegram Badge](https://img.shields.io/badge/Telegram-Profile-informational?style=badge&logo=telegram&logoColor=fff&color=0966c2)](https://t.me/omarovfrontend)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=badge&logo=linkedin&logoColor=blue&color=0966c2)](https://www.linkedin.com/in/omarovfrontend/)
+![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=shaomdev.visitor-badge&left_text=%F0%9F%91%80%20Visitors)
+[![Telegram Badge](https://img.shields.io/badge/Telegram-Profile-informational?style=badge&logo=telegram&logoColor=fff&color=0966c2)](https://t.me/shaomdev)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=badge&logo=linkedin&logoColor=blue&color=0966c2)](https://www.linkedin.com/in/shaomdev/)
