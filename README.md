@@ -48,6 +48,6 @@
 <!-- ![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-000?&logo=Nuxt.js) -->
 
 ### Contact me: ☟
-![Visitors](https://Visitor-badge.laobi.icu/badge?page_id=shaomdev.shaomdev)
+![Visitors_Badge](https://visitor-badge.laobi.icu/badge?page_id=shaomdev.shaomdev)
 [![Telegram Badge](https://img.shields.io/badge/Telegram-Profile-informational?style=badge&logo=telegram&logoColor=fff&color=0966c2)](https://t.me/shaomdev)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=badge&logo=linkedin&logoColor=blue&color=0966c2)](https://www.linkedin.com/in/shaomdev/)
