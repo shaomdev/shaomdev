@@ -48,6 +48,6 @@
 <!-- ![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-000?&logo=Nuxt.js) -->
 
 ### Contact me: ☟
-![Visitors](https://komarev.com/ghpvc/?username=shaomdev&style=flat-square&color=blue)
+![ProfileViews](https://komarev.com/ghpvc/?username=shaomdev&style=flat-square&color=blue)
 [![TelegramBadge](https://img.shields.io/badge/Telegram-Profile-informational?style=badge&logo=telegram&logoColor=fff&color=0966c2)](https://t.me/shaomdev)
 [![LinkedInBadge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=badge&logo=linkedin&logoColor=blue&color=0966c2)](https://www.linkedin.com/in/shaomdev/)
