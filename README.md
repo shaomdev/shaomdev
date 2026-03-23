@@ -1,7 +1,7 @@
 ## <p align="center">Hi there. 👋</p>
 ***<p align="center">🇷🇺 Welcome to my GitHub profile! 🇷🇺</p>***
 
-[![](https://github.com/omarovfrontend/omarovfrontend/blob/main/profile.gif?raw=true)](http://omarovfrontend.ru/) 
+[![](https://github.com/shaomdev/shaomdev/blob/main/profile.gif?raw=true)](http://shaomdev.ru/) 
 <!-- If you want the template for my gif, email me! -->
 
 <img align="right" width="350" alt="GIF" src="https://media3.giphy.com/media/fuJPZBIIqzbt1kAYVc/giphy.gif?cid=ecf05e47guq07vqxyyeb82qdgqb7ekwpszlnqolhgpn0u8ni&rid=giphy.gif"/>
@@ -12,10 +12,10 @@
  - `🤫 Fun fact: I love coding and I have a karate KMS.`
 
 ### My Stats:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omarovfrontend&layout=compact&langs_count=6&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shaomdev&layout=compact&langs_count=6&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🥷 In my free time I like to practice on Codewars.
-[![Codewars](https://www.codewars.com/users/omarovfrontend/badges/large)](https://www.codewars.com/users/omarovfrontend)
+[![Codewars](https://www.codewars.com/users/shaomdev/badges/large)](https://www.codewars.com/users/shaomdev)
 
 ### Languages and Tools:
 ![VScode](https://img.shields.io/badge/-VScode-000?style=flat&logo=Visual-Studio-Code&logoColor=007ACC)
