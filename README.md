@@ -50,5 +50,6 @@
 ### Contact me: ☟
 ![VisitorsBadge](https://visitor-badge.laobi.icu/badge?page_id=shaomdev.shaomdev)
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=shaomdev.shaomdev&label=VISITORS&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=shaomdev&style=flat-square&color=blueviolet)
 [![TelegramBadge](https://img.shields.io/badge/Telegram-Profile-informational?style=badge&logo=telegram&logoColor=fff&color=0966c2)](https://t.me/shaomdev)
 [![LinkedInBadge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=badge&logo=linkedin&logoColor=blue&color=0966c2)](https://www.linkedin.com/in/shaomdev/)
