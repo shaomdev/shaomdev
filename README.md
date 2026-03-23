@@ -49,6 +49,6 @@
 
 ### Contact me: ☟
 ![VisitorsBadge](https://visitor-badge.laobi.icu/badge?page_id=shaomdev.shaomdev)
-![Visitors Badge](https://visitor-badge.laobi.icu/badge?page_id=shaomdev.shaomdev)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=shaomdev.shaomdev&label=VISITORS&color=blue)
 [![TelegramBadge](https://img.shields.io/badge/Telegram-Profile-informational?style=badge&logo=telegram&logoColor=fff&color=0966c2)](https://t.me/shaomdev)
 [![LinkedInBadge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=badge&logo=linkedin&logoColor=blue&color=0966c2)](https://www.linkedin.com/in/shaomdev/)
